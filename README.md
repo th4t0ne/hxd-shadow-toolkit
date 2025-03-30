@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![Status: Alpha](https://img.shields.io/badge/status-active-blueviolet)
+![Platform: Linux](https://img.shields.io/badge/platform-linux-informational)
+![Author: h.exe](https://img.shields.io/badge/author-h.exe-black)
+
 # hxd-shadow-toolkit – Phantom Wi-Fi Auditor by h.exe
 
 > Full-featured Wi-Fi MITM and phishing automation toolkit for educational auditing only.
